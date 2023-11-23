@@ -1,0 +1,7 @@
+{
+  "name": "praktikum_alifa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
